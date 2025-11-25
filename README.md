@@ -1,4 +1,6 @@
 # Deep-learning-book-notes  
 动手深度学习的每小节细微解读  
 在2025年11月23日,我开启了第一篇我的github项目,希望我能坚持每天都写1-2节的讲解。  
-关于我所使用的书记，《动手深度学习》链接如下：[动手深度学习 (Dive into Deep Learning)](https://zh-v2.d2l.ai/)
+关于我所使用的书记，《动手深度学习》链接如下：[动手深度学习 (Dive into Deep Learning)](https://zh-v2.d2l.ai/)  
+  首先关于环境安装,其它的那本书上都有讲解，但不幸的是d2l依赖的python环境在3.10,而我们安装最新的python在3.13以上。所以我们需要通过外界环境来进行修改,从而能让我们在不降低python版本的情况下还能使用d2l这个包
+
