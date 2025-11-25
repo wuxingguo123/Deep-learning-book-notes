@@ -1,4 +1,4 @@
-首先你要先访问华为云Python镜像源：[Simple Index](https://repo.huaweicloud.com/repository/pypi/simple/d2l/)，滑动至页面底部，下载最新版本的.tar.gz源码包（如d2l-1.0.3.tar.gz）。滑动至页面底部，下载最新版本的.tar.gz源码包（如d2l-1.0.3.tar.gz）。下载好后，打开该文件所在位置。
+首先你要先访问华为云Python镜像源：[Simple Index](https://repo.huaweicloud.com/repository/pypi/simple/d2l/)，滑动至页面底部，下载最新版本的.tar.gz源码包（如d2l-1.0.3.tar.gz）。下载好后，打开该文件所在位置。
 
 随后打开Anaconda Prompt，先激活自己的环境：
 `conda activate [你的环境名]`
